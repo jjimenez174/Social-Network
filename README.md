@@ -4,6 +4,8 @@
 
 The Social Network API is a web application where users can share their thoughts, react to friend's thoughts, and create a friend list. 
 
+[Walkthrough video](https://drive.google.com/file/d/1cChhW_3xEuJMUHSZlI_RAEzr644CPj4Z/view?usp=sharing)
+
 ## Table of Content
 
 [Installation](#installation)  
@@ -13,7 +15,7 @@ The Social Network API is a web application where users can share their thoughts
 
 ## Installation
 
-- Clone the repositoy
+- Clone the repository
 - Open the file in VS code or any source code editor
 - Open terminal install <b>npm i</b>
 - run <b>npm start</b>
